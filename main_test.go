@@ -11,7 +11,7 @@ import (
 
 func TestMain(t *testing.T) {
 	output := captureOutput(t, main)
-	assert.Equal(t, "Hello world: \nHere is simple text as file\n", output)
+	assert.Equal(t, "Hello world: 10\nHere is simple text as file\n", output)
 }
 
 func captureOutput(t *testing.T, f func()) string {
