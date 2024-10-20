@@ -1,0 +1,13 @@
+name: 'Push CI'
+
+on:
+  push:
+    branches:
+      - "*"
+
+jobs:
+  test-unit:
+    name: "Run unit tests"
+    secrets: inherit
+    uses: ./.github/workflows/test.yml
+
