@@ -1,0 +1,77 @@
+HASH[testResult]
+HASH[testResult]: "go1.23.0"
+HASH[testResult]: "test binary a8vTzXlPC2oSC690SWhq args [\"-test.timeout=10m0s\" \"-test.v=true\"] execcmd []"
+HASH[testResult]: 082a95153fe06b32e56a3b1139721d4e484ca19a5fbf33004c1ab63e948a2447
+HASH[testInputs]
+HASH[testInputs]: "go1.23.0"
+HASH[getenv]
+HASH[getenv]: "go1.23.0"
+HASH[getenv]: "\x01"
+HASH[getenv]: "gocachehash=1"
+HASH[getenv]: be008abdbba06a4b5850d685dc98b082a9726f03b58342d83dd37f46fd17f03a
+HASH[testInputs]: "env GODEBUG be008abdbba06a4b5850d685dc98b082a9726f03b58342d83dd37f46fd17f03a\n"
+HASH[getenv]
+HASH[getenv]: "go1.23.0"
+HASH[getenv]: "\x00"
+HASH[getenv]: 7c14576338dad52c3c4a6d3caaf69eb6bc51f0f435509406291ef27fc293c375
+HASH[testInputs]: "env TEST_VAR 7c14576338dad52c3c4a6d3caaf69eb6bc51f0f435509406291ef27fc293c375\n"
+HASH[open]
+HASH[open]: "go1.23.0"
+HASH[open]: "stat 28 1a4 2024-10-20 09:07:49.724614385 +0200 CEST false\n"
+HASH[open]: f1ae6287e39e1997f76b66ba72e4aceba925fdec69ad479c78ef0900f4872349
+HASH[testInputs]: "open /home/martinv/tmp/prednaska/simple.txt f1ae6287e39e1997f76b66ba72e4aceba925fdec69ad479c78ef0900f4872349\n"
+HASH[testInputs]: b4b523d3bc98fb9a8e52b9bad7d23d5f4c74b5754ccade4c7401b8e56265c97f
+HASH subkey 082a95153fe06b32e56a3b1139721d4e484ca19a5fbf33004c1ab63e948a2447 "inputs:b4b523d3bc98fb9a8e52b9bad7d23d5f4c74b5754ccade4c7401b8e56265c97f" = 73599bafdca83840fe3315c8b63868b9e96f0c3ea0f9fecd52d46a19cf2112b9
+HASH subkey 5d38b000f99d69bd4f00677554187f72a4fc995cbcf5d852157e8aa0a49111d9 "link-stdout" = e6dc528642a175c2cdb1374ba1413a98daeedea15f011d94eb908b65e6eee133
+HASH[testResult]
+HASH[testResult]: "go1.23.0"
+HASH[testResult]: "test binary TOZOKUsrsp9eeR8LhpFF args [\"-test.timeout=10m0s\" \"-test.v=true\"] execcmd []"
+HASH[testResult]:   ----
+HASH[testInputs]
+HASH[testInputs]: "go1.23.0"
+HASH[getenv]
+HASH[getenv]: "go1.23.0"
+HASH[getenv]: "\x01"
+HASH[getenv]: "gocachehash=1"
+HASH[getenv]: be008abdbba06a4b5850d685dc98b082a9726f03b58342d83dd37f46fd17f03a
+HASH[testInputs]: "env GODEBUG be008abdbba06a4b5850d685dc98b082a9726f03b58342d83dd37f46fd17f03a\n"
+HASH[getenv]
+HASH[getenv]: "go1.23.0"
+HASH[getenv]: "\x00"
+HASH[getenv]: 7c14576338dad52c3c4a6d3caaf69eb6bc51f0f435509406291ef27fc293c375
+HASH[testInputs]: "env TEST_VAR 7c14576338dad52c3c4a6d3caaf69eb6bc51f0f435509406291ef27fc293c375\n"
+HASH[open]
+HASH[open]: "go1.23.0"
+HASH[open]: "stat 28 1a4 2024-10-20 09:07:49.724614385 +0200 CEST false\n"
+HASH[open]: f1ae6287e39e1997f76b66ba72e4aceba925fdec69ad479c78ef0900f4872349
+HASH[testInputs]: "open /home/martinv/tmp/prednaska/simple.txt f1ae6287e39e1997f76b66ba72e4aceba925fdec69ad479c78ef0900f4872349\n"
+HASH[testInputs]: b4b523d3bc98fb9a8e52b9bad7d23d5f4c74b5754ccade4c7401b8e56265c97f
+HASH subkey d294aff104f7ada32c82aa6d69569c06236e94a8e6933e41ca9371b62cbde274 "inputs:b4b523d3bc98fb9a8e52b9bad7d23d5f4c74b5754ccade4c7401b8e56265c97f" = 1df3b499a5d9502bfc42d219883024a1b3e7c4fb79a7b15a7a384f091715a3c4
+HASH[testInputs]
+HASH[testInputs]: "go1.23.0"
+HASH[getenv]
+HASH[getenv]: "go1.23.0"
+HASH[getenv]: "\x01"
+HASH[getenv]: "gocachehash=1"
+HASH[getenv]: be008abdbba06a4b5850d685dc98b082a9726f03b58342d83dd37f46fd17f03a
+HASH[testInputs]: "env GODEBUG be008abdbba06a4b5850d685dc98b082a9726f03b58342d83dd37f46fd17f03a\n"
+HASH[getenv]
+HASH[getenv]: "go1.23.0"
+HASH[getenv]: "\x00"
+HASH[getenv]: 7c14576338dad52c3c4a6d3caaf69eb6bc51f0f435509406291ef27fc293c375
+HASH[testInputs]: "env TEST_VAR 7c14576338dad52c3c4a6d3caaf69eb6bc51f0f435509406291ef27fc293c375\n"
+HASH[open]
+HASH[open]: "go1.23.0"
+HASH[open]: "stat 28 1a4 2024-10-20 09:07:49.724614385 +0200 CEST false\n"
+HASH[open]: f1ae6287e39e1997f76b66ba72e4aceba925fdec69ad479c78ef0900f4872349
+HASH[testInputs]: "open /home/martinv/tmp/prednaska/simple.txt f1ae6287e39e1997f76b66ba72e4aceba925fdec69ad479c78ef0900f4872349\n"
+HASH[testInputs]: b4b523d3bc98fb9a8e52b9bad7d23d5f4c74b5754ccade4c7401b8e56265c97f
+HASH subkey 082a95153fe06b32e56a3b1139721d4e484ca19a5fbf33004c1ab63e948a2447 "inputs:b4b523d3bc98fb9a8e52b9bad7d23d5f4c74b5754ccade4c7401b8e56265c97f" = 73599bafdca83840fe3315c8b63868b9e96f0c3ea0f9fecd52d46a19cf2112b9
+HASH subkey d294aff104f7ada32c82aa6d69569c06236e94a8e6933e41ca9371b62cbde274 "inputs:b4b523d3bc98fb9a8e52b9bad7d23d5f4c74b5754ccade4c7401b8e56265c97f" = 1df3b499a5d9502bfc42d219883024a1b3e7c4fb79a7b15a7a384f091715a3c4i
+
+d294aff104f7ada32c82aa6d69569c06236e94a8e6933e41ca9371b62cbde274
+
+# test log
+getenv TEST_VAR
+open simple.txt
+
