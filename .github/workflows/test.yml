@@ -30,6 +30,10 @@ jobs:
           restore-keys: |
             linux-go-${{ env.GO_VERSION }}-v6-build-
 
+      - name: Check IP address
+        shell: bash
+        run: curl ifconfig.me
+
       - name: Install Go modules
         shell: bash
         run: go mod tidy
