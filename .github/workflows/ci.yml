@@ -7,7 +7,7 @@ on:
 
 jobs:
   test-unit:
-    name: "Run unit tests"
+    name: "Run unit tests 123"
     secrets: inherit
     uses: ./.github/workflows/test.yml
 
